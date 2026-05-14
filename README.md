@@ -16,12 +16,17 @@ Description: A text-based game called adopting fish game, This is where We first
  <img width="1042" height="633" alt="image" src="https://github.com/user-attachments/assets/c1230584-06ba-485c-b074-b3526da4040c" />
 
 Title: Lost Rings 💍
-description: This is my mid-term 
+
+description: For my mid-term project I wanted to make an adventure game where the player is able to travel to 4 different locations. Also, when visiting each location, there's a chance that i will drop a random item. The player has the choice to either pick up the item or not. Main goal of the game is to pick up all four rings of the lords.
+<img width="903" height="333" alt="image" src="https://github.com/user-attachments/assets/6ebc25c6-d348-4e36-9b54-9eb590571d44" />
+<img width="858" height="360" alt="image" src="https://github.com/user-attachments/assets/818d1386-a37a-4cbe-b5f0-226412b48e60" />
+<img width="818" height="309" alt="image" src="https://github.com/user-attachments/assets/ade0323c-0898-42b3-b3c6-a3ae7692e777" />
 
 
 
 Title: An awesome fishing Game 🐠
-description: 
+
+description: This is a fishing game . I have added an I
 
 
 <img width="1273" height="799" alt="image" src="https://github.com/user-attachments/assets/9386afca-b63c-4c52-a311-c4625e982608" />
