@@ -26,7 +26,7 @@ description: For my mid-term project I wanted to make an adventure game where th
 
 Title: An awesome fishing Game 🐠
 
-description: This is a fishing game . I have added an I
+description: This is a fishing game where you can fish different sorts of fish, going from a common rarity fish to a legendary fish and you are able to sell them. Also, I have added an AI pet shark that follows the boat (player) wherever it goes and receives a warning whenever the shark gets too close.
 
 
 <img width="1273" height="799" alt="image" src="https://github.com/user-attachments/assets/9386afca-b63c-4c52-a311-c4625e982608" />
